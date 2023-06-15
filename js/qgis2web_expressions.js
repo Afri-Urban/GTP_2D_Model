@@ -757,7 +757,7 @@ function fnc_project_color(values, context) {
 
 
 
-function exp_Bellville_CBD_Buildings_4rule0_eval_expression(context) {
+function exp_Bellville_CBD_Buildings_3rule0_eval_expression(context) {
     // Grade IS NULL
 
     var feature = context.feature;
@@ -770,7 +770,7 @@ function exp_Bellville_CBD_Buildings_4rule0_eval_expression(context) {
 }
 
 
-function exp_Bellville_CBD_Buildings_4rule1_eval_expression(context) {
+function exp_Bellville_CBD_Buildings_3rule1_eval_expression(context) {
     // Grade > 0 AND Grade < 2
 
     var feature = context.feature;
@@ -783,7 +783,7 @@ function exp_Bellville_CBD_Buildings_4rule1_eval_expression(context) {
 }
 
 
-function exp_Bellville_CBD_Buildings_4rule2_eval_expression(context) {
+function exp_Bellville_CBD_Buildings_3rule2_eval_expression(context) {
     // Grade >= 2 AND Grade < 3
 
     var feature = context.feature;
@@ -796,7 +796,7 @@ function exp_Bellville_CBD_Buildings_4rule2_eval_expression(context) {
 }
 
 
-function exp_Bellville_CBD_Buildings_4rule3_eval_expression(context) {
+function exp_Bellville_CBD_Buildings_3rule3_eval_expression(context) {
     // Grade >= 3 AND Grade < 4
 
     var feature = context.feature;
@@ -809,7 +809,7 @@ function exp_Bellville_CBD_Buildings_4rule3_eval_expression(context) {
 }
 
 
-function exp_Bellville_CBD_Buildings_4rule4_eval_expression(context) {
+function exp_Bellville_CBD_Buildings_3rule4_eval_expression(context) {
     // Grade >= 4 AND Grade < 5
 
     var feature = context.feature;
@@ -822,7 +822,7 @@ function exp_Bellville_CBD_Buildings_4rule4_eval_expression(context) {
 }
 
 
-function exp_Bellville_CBD_Buildings_4rule5_eval_expression(context) {
+function exp_Bellville_CBD_Buildings_3rule5_eval_expression(context) {
     // Grade >= 5
 
     var feature = context.feature;
